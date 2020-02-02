@@ -8,6 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.mail.javamail.JavaMailSender;
 
+/**
+ * Java Doc
+ */
 @ComponentScan("com.neos.university.emai")
 @SpringBootApplication
 public class Application implements CommandLineRunner {
