@@ -28,7 +28,7 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
-        <!-- dependencia - send email -->
+        <!-- send email -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-mail</artifactId>
