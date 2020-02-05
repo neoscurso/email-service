@@ -12,7 +12,7 @@ https://support.google.com/accounts/answer/6010255?hl=es-419
 
 4.-hacer uso de tu usuario/password en el archivo application.properties
 
-5.-hacer uso de tu usuario/password en los archivos java Application y EmailServiceImpl
+5.-hacer uso de Email_from y Email_to en los archivos java Application y EmailServiceImpl
 
 6.-Ejecutar en linea de comandos: mvn spring-boot:run
 
